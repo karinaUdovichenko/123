@@ -1,3 +1,4 @@
+#123
 import random
 den=1
 sitost=15
